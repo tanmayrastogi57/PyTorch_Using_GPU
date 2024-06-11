@@ -1,5 +1,3 @@
-Sure, here's a detailed `README.md` file for your GitHub repository:
-
 ---
 
 # CNN Training: CPU vs GPU with PyTorch
